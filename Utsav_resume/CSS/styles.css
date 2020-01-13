@@ -1,0 +1,55 @@
+body{
+  background-color: #B8FEFB;
+}
+img{
+  max-width:10%;
+    height:auto;
+    margin-top: 0;
+}
+hr
+{
+  width: 20%;
+  border-style: dotted;
+  height: 20px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: dotted;
+}
+.intro{
+  text-align: center;
+  color: #20465F;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0px;
+
+}
+h2{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.mid{
+  font-size: 20px;
+
+  list-style-type: circle;
+
+}
+.try{
+  height = 20px;
+  overflow-y: scroll;
+}
+.story{
+  font-size: 15px;
+
+}
+h3
+{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.personal
+{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: #20465F;
+  font-size: 20px;
+
+}
+table.personal { table-layout:fixed; }
+table.personal td { overflow: hidden; }
